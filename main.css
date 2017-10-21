@@ -1,0 +1,104 @@
+
+body {
+    background-color: #E9EBEE;
+}
+#my-nav{
+    color: white;
+    background-color: #4267b2;
+}
+.width{
+    min-width: 400px;
+}
+#darkerthanblack span {
+    color: #0D1325;
+    font-size :20px;
+}
+#my-nav a {
+    color: white !important;
+}
+.footer{
+    height: 42px;
+    background-color: black;
+    margin-top: 10px;
+}
+.lsheading{
+    padding: 20px 15px 0px 15px;
+}
+.post-section, .ads{
+    /*background-color: white;*/
+    height:700px;
+    overflow:scroll;
+}
+.post-section::-webkit-scrollbar {
+    display: none;
+}
+.ads::-webkit-scrollbar {
+    display: none;
+}
+.col-md-2 .badge {
+    float: right;
+    color: #808080;
+    background-color: #e9ebee;
+}
+.col-md-2 .icon{
+    float: left;
+    padding-right: 10px;
+}
+.col-md-2 .ic{
+    float: left;
+    padding-right: 10px;
+}
+.panel-body .glyphicon{
+    margin-left: 10px;
+    margin-right: 4px;
+}
+.panel{
+    margin-bottom: 10px;
+}
+.text-post{
+    margin-bottom: 15px;
+    margin-top: 0px;
+}
+.panel-title{
+    padding-left: 10px;
+}
+.image-post {
+    margin-bottom: 15px;
+}
+.video-post {
+    margin-bottom: 15px;
+}
+.comments-toolkit span{
+    margin: 5px;
+}
+.comments-toolkit{
+    margin-top: 5px;
+}
+.my-comment{
+    width: 100%;
+    border-radius: 10px;
+    height: 32px;
+    color: grey;
+}
+my-comment:focus{
+    border: none !important;
+    box-shadow: none !important;
+    outline: none !important;
+
+}
+ .name{
+    color:#4267b2;
+}
+ .media-left .img-circle {
+     height: 30px;
+     width: 30px;
+ }
+ .video{
+     padding-bottom: 10px;
+ }
+.panel-body{
+    padding-top: 0px;
+}
+.media{
+    padding-left: 10px;
+}
